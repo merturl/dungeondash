@@ -12,10 +12,10 @@
   "license": "MIT",
   "dependencies": {
     "dungeoneer": "github:mipearson/dungeoneer#mp-fix-ts-bindings",
-    "mrpas": "^2.0.0",
-    "parcel": "^1.12.4",
-    "phaser": "^3.21.0",
-    "phaser-plugin-scene-watcher": "^4.0.0",
-    "typescript": "^3.7.4"
+    "mrpas": "2.0.0",
+    "parcel": "1.12.3",
+    "phaser": "3.21.0",
+    "phaser-plugin-scene-watcher": "4.0.0",
+    "typescript": "5.1.6"
   }
 }
